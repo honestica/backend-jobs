@@ -1,0 +1,29 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "price": 540
+    },
+    {
+      "id": 2,
+      "price": 1080
+    },
+    {
+      "id": 3,
+      "price": 252
+    },
+    {
+      "id": 4,
+      "price": 540
+    },
+    {
+      "id": 5,
+      "price": 1920
+    }
+  ],
+  "commission": {
+    "pdg_fee": 536.60,
+    "interim_shifts": 3
+  }
+}
+
