@@ -2,19 +2,19 @@
   "workers": [
     {
       "id": 1,
-      "price": 810
+      "price": 270
     },
     {
       "id": 2,
-      "price": 1080
+      "price": 810
     },
     {
       "id": 3,
-      "price": 378
+      "price": 630
     },
     {
       "id": 4,
-      "price": 540
+      "price": 810
     }
   ]
 }

@@ -6,15 +6,15 @@
     },
     {
       "id": 2,
-      "price": 1080
+      "price": 810
     },
     {
       "id": 3,
-      "price": 252
+      "price": 126
     },
     {
       "id": 4,
-      "price": 540
+      "price": 810
     },
     {
       "id": 5,
@@ -22,8 +22,7 @@
     }
   ],
   "commission": {
-    "pdg_fee": 536.60,
+    "pdg_fee": 450.30,
     "interim_shifts": 3
   }
 }
-
