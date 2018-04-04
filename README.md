@@ -1,6 +1,6 @@
 # Lifen Backend Ruby Challenge
 
- Looking for a job? Check out our [open positions](https://honestica.welcomekit.co/).
+ Looking for a job? Check out our [open positions](https://www.welcometothejungle.co/companies/lifen/jobs).
 
 ## Guidelines
 
