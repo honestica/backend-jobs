@@ -12,3 +12,5 @@ Once the hospital has scheduled all shifts, it want to know how much each shift 
 Each shift is paid according to the worker assigned to the shift.
 
 Write code that generates `output.json` from `data.json`
+
+When you are done -> [next level](https://github.com/honestica/backend-jobs/tree/master/level2)
