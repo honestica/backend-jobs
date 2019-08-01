@@ -2,7 +2,7 @@
   "workers": [
     { "id": 1, "first_name": "Julie", "status": "medic" },
     { "id": 2, "first_name": "Marc", "status": "medic" },
-    { "id": 3, "first_name": "Antoine", "status": "interne" },
+    { "id": 3, "first_name": "Antoine", "status": "intern" },
     { "id": 4, "first_name": "Emilie", "status": "medic" }
   ],
   "shifts": [
